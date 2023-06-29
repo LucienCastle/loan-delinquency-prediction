@@ -40,8 +40,7 @@ price points. Here's how to create a Notebook Instance:</p>
 6. Click on "Create Notebook Instance" to create the instance.
 
 ## Data Preprocessing
-Create a new notebook with **conda_tensorflow_p36** kernel. Import the required libraries and clean and preprocess the data as done earlier. You can create a simple ETL pipeline. 
-Save the train and test sets to `train.csv` and `test.csv` respectively.
+Create a new notebook with **conda_tensorflow_p36** kernel. Import the required libraries and clean and preprocess the data as done earlier. You can create a simple ETL pipeline. Save the train and test sets to `train.csv` and `test.csv` respectively. Upload the the data to S3 bucket created earlier.
 
 ## Model Training
 Use the `train.py` as the training script which is fed to the SageMaker's Tensorflow Estimator. Follow the code in `loan-delinquency-ann.ipynb` to train the model.
