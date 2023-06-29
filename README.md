@@ -45,6 +45,8 @@ In order to derive additional insights, we enriched the lending data with Census
 estimated Median Income of that particular region. Default rates are skewed around 8-10% for most US
 Zip codes. </p>
 
+[**Tableau Dashboard**](https://public.tableau.com/app/profile/sumit.patil5062/viz/USLoanDelinquencyAnalysis/Dashboard1)
+
 ## Modelling
 <p align="justify"> We implemented classification models using loan data to predict Loan Delinquency
 Probability. We only considered a few factors for the modeling like loan amount, term, interest rate,
