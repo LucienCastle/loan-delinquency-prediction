@@ -6,7 +6,6 @@
 - [Model Training](#model-training)
 - [Deployment and evaluation](#deployment-and-evaluation)
 - [Usage](#usage)
-- [License](#license)
 
 ## Introduction
 <p align='justify'>Amazon SageMaker is a machine learning service provided by Amazon Web Services (AWS) that aims to simplify the process of building, 
@@ -52,6 +51,3 @@ Create a model endpoint and deploy the model to get the inference. Make sure you
 
 ## Usage
 Open `loan-delinquency-ann.ipynb` and follow the steps. You can change the hyperparameters for the model by passing different parameters to the Tensorflow estimator.
-
-## License
-This project is licensed under the [MIT License](LICENSE).
