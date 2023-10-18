@@ -1,4 +1,4 @@
-# Loan Delinquency Prediction
+# Customer Risk Assessment for Lending Clubs
 
 ## Introduction
 <p align="justify">A loan delinquency prediction is essential for financial institutions and lenders to identify potential risks
